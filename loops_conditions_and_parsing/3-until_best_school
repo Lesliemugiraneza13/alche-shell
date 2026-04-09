@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
-This script displays Best School 10 times using until loop
+#This script displays Best School 10 times using until loop
 i=0; until [ "i"−ge10];doecho"BestSchool";i=i" -ge 10 ]; do echo "Best School"; i=
 i"−ge10];doecho"BestSchool";i=((i+1)); done
